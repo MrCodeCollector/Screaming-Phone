@@ -10,7 +10,7 @@ function setup() {
 }
 
 function draw() {
-  if(accelerationY > 5) {
+  if(accelerationY > 10) {
     mild.play();
     background(225);
   } else if(accelerationY <= 0 && mild.isPlaying() ) {
