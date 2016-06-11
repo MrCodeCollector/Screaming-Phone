@@ -14,7 +14,7 @@ function draw() {
     mild.play();
     background(225);
   } else if(accelerationY <= 0 && mild.isPlaying() ) {
-    mild.stop();
-    background(0);
+    // mild.stop();
+    // background(0);
   }
 }
