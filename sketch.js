@@ -24,9 +24,9 @@ function draw() {
     
     micLevel = mic.getLevel();
     
-    if(micLevel >= 0) {
-      mild.play();
-      background(255, 200, 75);
-    }
+    // if(micLevel >= 0) {
+    //   mild.play();
+    //   background(255, 200, 75);
+    // }
   }
 }
