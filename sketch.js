@@ -22,7 +22,7 @@ function draw() {
     // mild.stop();
     // background(0);
     
-    // micLevel = mic.getLevel();
+    
     
     // if(micLevel >= 0) {
     //   mild.play();
